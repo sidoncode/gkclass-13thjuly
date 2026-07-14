@@ -24,3 +24,23 @@ Use `inline code` for technical terms.
 
 ### adding image below as a place holder
 ![Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzUjNC_WEIwfzg1bhG5czpTh131mBUmie8IOIob7lJQ&s)
+
+
+
+## Tables
+
+| Shortcut | Action |
+|----------|--------|
+| `⌘ ⇧ Z` | Toggle zen mode |
+| `Escape` | Exit zen mode |
+| `?` | Keyboard shortcuts |
+
+
+
+
+
+
+
+
+
+
