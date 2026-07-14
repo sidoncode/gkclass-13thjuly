@@ -21,3 +21,6 @@ Use `inline code` for technical terms.
 1. item1
 2. item2
 3. item3
+
+### adding image below as a place holder
+![Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzUjNC_WEIwfzg1bhG5czpTh131mBUmie8IOIob7lJQ&s)
